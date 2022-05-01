@@ -1,0 +1,99 @@
+.main-page-sytle {
+    top: 0px;
+    left: 0px;
+    width: 1100px;
+    height: 1080px;
+    background: #FBFBFB 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.food-bg-image {
+    top: 0px;
+    left: 0px;
+    width: inherit;
+    height: 480px;
+    position: absolute;
+}
+
+
+.food-bg-shade {
+    top: 0px;
+    left: 0px;
+    width: inherit;
+    height: 480px;
+    /* UI Properties */
+    background: transparent linear-gradient(180deg, #9D0E0E00 0%, #4F0707 100%) 0% 0% no-repeat padding-box;
+    mix-blend-mode: multiply;
+    opacity: 1;
+    position: absolute;
+}
+
+.rstrnt_logo_circle {
+    /* Layout Properties */
+    top: 81px;
+    left: 610px;
+    width: 147px;
+    height: 147px;
+    /* UI Properties */
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #707070;
+    opacity: 1;
+    position: absolute;
+    border-radius: 50%;
+}
+
+.rstrnt_logo {
+    /* Layout Properties */
+    top: 105px;
+    left: 649px;
+    width: 68px;
+    height: 99px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal 600 70px/106px Poppins;
+    letter-spacing: 0px;
+    color: #EB2929;
+    opacity: 1;
+    position: absolute;
+}
+
+.find_rstrnts_text {
+    /* Layout Properties */
+    top: 250px;
+    left: 306px;
+    width: 758px;
+    height: 51px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal 600 36px/55px Poppins;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    position: absolute;
+}
+
+
+.location_textbox {
+    /* Layout Properties */
+    top: 339px;
+    left: 312px;
+    width: 245px;
+    height: 60px;
+    /* UI Properties */
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    opacity: 1;
+    position: absolute;
+}
+
+
+.srch_for_rstrnts {
+    /* Layout Properties */
+    top: 339px;
+    left: 578px;
+    width: 477px;
+    height: 60px;
+    /* UI Properties */
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    opacity: 1;
+    position: absolute;
+}
