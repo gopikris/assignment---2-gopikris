@@ -65,10 +65,10 @@
     height: 51px;
     /* UI Properties */
     text-align: left;
-    font: normal normal 600 36px/55px Poppins;
     letter-spacing: 0px;
     color: #FFFFFF;
     opacity: 1;
+    font: normal normal normal 15px/23px Poppins;
     position: absolute;
 }
 
@@ -79,9 +79,11 @@
     left: 312px;
     width: 245px;
     height: 60px;
+    -webkit-padding-start: 20px;
     /* UI Properties */
     background: #FFFFFF 0% 0% no-repeat padding-box;
     opacity: 1;
+    font: normal normal normal 15px/23px Poppins;
     position: absolute;
 }
 
@@ -95,5 +97,7 @@
     /* UI Properties */
     background: #FFFFFF 0% 0% no-repeat padding-box;
     opacity: 1;
+    font: normal normal normal 15px/23px Poppins;
     position: absolute;
+    -webkit-padding-start: 60px;
 }
