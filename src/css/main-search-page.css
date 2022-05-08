@@ -72,6 +72,18 @@
     position: absolute;
 }
 
+.search-icon-style {
+    /* Layout Properties */
+    width: 20px;
+    height: 20px;
+    /* UI Properties */
+    background: #74819E 0% 0% no-repeat padding-box;
+    opacity: 0.97;
+    top: 360px;
+    left: 600px;
+    position: absolute;
+
+}
 
 .location_textbox {
     /* Layout Properties */
