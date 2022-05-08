@@ -53,14 +53,14 @@
 }
 
 .meal-type-img {
-    width: 160px;
+    width: 170px;
 }
 
-.meal-type {
+.meal-type > div {
     /* Layout Properties */
-    padding-left: 28;
     width: 88px;
     height: 25px;
+    margin-left: 20px;
     /* UI Properties */
     text-align: left;
     font: normal normal 600 18px/27px Poppins;
