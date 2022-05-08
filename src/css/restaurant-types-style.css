@@ -49,5 +49,35 @@
     background: #FFFFFF 0% 0% no-repeat padding-box;
     box-shadow: 0px 3px 6px #00000029;
     opacity: 1;
-    
+
+}
+
+.meal-type-img {
+    width: 160px;
+}
+
+.meal-type {
+    /* Layout Properties */
+    padding-left: 28;
+    width: 88px;
+    height: 25px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal 600 18px/27px Poppins;
+    letter-spacing: 0px;
+    color: #192F60;
+    opacity: 1;
+}
+
+.meal-type-dtl {
+    /* Layout Properties */
+    padding-left: 28;
+    width: 138px;
+    height: 62px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal normal 14px/21px Poppins;
+    letter-spacing: 0px;
+    color: #8C96AB;
+    opacity: 1;
 }
